@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: FoundTheBitch
+## Notes: Displays detailed information about rare spawns on your world map.
+## Author: Roudaaja
+## Version: 1.0
+
+FoundTheBitch.lua
